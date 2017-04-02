@@ -1,0 +1,28 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "Our facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add late"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "heroku",
+    "node"
+  ],
+  "author": "Pablo Cordova",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2",
+    "request": "^2.79.0"
+  }
+}
